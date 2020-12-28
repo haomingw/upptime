@@ -15,10 +15,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
   navbar:
+    - title: Status
+      href: /
     - title: Forum
       href: https://fortruth.site
-    - title: Status
-      href: https://status.fortruth.site
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
