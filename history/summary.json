@@ -4,17 +4,19 @@
     "url": "https://fortruth.site",
     "icon": "https://favicons.githubusercontent.com/fortruth.site",
     "slug": "for-truth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 387,
-    "timeWeek": 418,
-    "timeMonth": 434,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 444,
+    "timeDay": 869,
+    "timeWeek": 534,
+    "timeMonth": 463,
+    "timeYear": 444,
+    "dailyMinutesDown": {
+      "2021-02-26": 0
+    }
   }
 ]
